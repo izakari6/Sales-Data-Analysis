@@ -43,7 +43,7 @@ This process simply meaning creating of new data columns with the help of functi
 One of the purposes of visual analysis is to create a summary for the important facts found in a dataset. It is much easier to read and understand a well visualized data than trying to read a raw dataset with multiple columns and rows. The aims of this project was achieved with the help of visualizations in the form of bar charts and line plots.
 
 # Findings
-1. 2019 had the highest sales revenue ($ 34,456,867.65) as compared to 2020 with ($ 8,670.29) and this was due to the inavalability of the entire sales transactions of 2020(Only January was available).
+1. 2019 had the highest sales revenue ($ 34,456,867.65) as compared to 2020 with ($ 8,670.29) and this was due to the unavalability of the entire sales transactions of 2020(Only January was available).
 2. December, October and October were the top 3 selling months with a sales revenue of ($4,608,295.70 ,$3,734,777.86 , $3,389,217.98 respectively)
 3. San Francisco (CA) $8,254,743.55 , Los Angeles (CA)	$5,448,304.28 , and New York City (NY) $4,661,867.14 were the top 3 cities with high sales revenue generation.
 4. The 4th quarter of the year generated the highest sales revenue $11,540,948.61
